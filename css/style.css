@@ -4779,6 +4779,10 @@ th.hide-for-touch {
   padding: 0;
 }
 
+.top-bar .name h1 a span {
+  color: #f3ae97;
+}
+
 .top-bar-section li:not(.has-form):last-child a:not(.button) {
   padding-right: 0;
 }
