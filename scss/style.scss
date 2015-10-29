@@ -201,9 +201,9 @@
 		position: relative;
 	}
 	.row{
-		color:#f9dfd9;
+		color:#fff;
 		h2 {
-			color:#f9dfd9;
+			color:#fff;
 			font-size: 20px;
 		}
 		a {
@@ -273,5 +273,16 @@
 		dd{
 			margin: 0;
 		}
+	}
+	.ba-iteminfo{
+		p{
+			color: #414141;
+			font-size: 14px;
+		margin:0 0 25px;
+		}
+		margin-bottom: 50px;
+	}
+	.ba-itemslide{
+		margin: 25px 0;
 	}
 }
